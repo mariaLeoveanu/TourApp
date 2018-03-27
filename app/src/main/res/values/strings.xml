@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tour App</string>
+    <string name="content_description">Image of touristic attraction</string>
+    <string name="muzeul_taranului_descr">The National Museum of the Romanian Peasant is a museum with a collection of textiles, icons, ceramics, and other artifacts of Romanian peasant life.</string>
+    <string name="mnac">The National Museum of Contemporary Art is a contemporary art museum in Bucharest, Romania.It is located in a new glass wing of the Palace of the Parliament, one of the largest administrative buildings in the world.</string>
+    <string name="antipa">The museumThe National Museum of Natural History Grigore Antipa\'s patrimony is made up of over 2 million pieces,grouped in various zoological, paleontological, mineral and rock collections and ethnographic collections. </string>
+    <string name="istorie">The National Museum of Romanian History is a museum which contains Romanian historical artifacts from prehistoric times up to modern times.</string>
+    <string name="colectii">The museum has various pieces from Asia and the Middle East, and several pieces by Western European artists (including one drawing by Vincent van Gogh).</string>
+    <string name="parlament">The Parliament Palace is the second largest administrative building for civilian use on the world\'s surface,the most expensive administrative building in the world and the heaviest building in the world.</string>
+    <string name="victoriei_18">Victoriei 18 is a showcase restaurant that brings in the same space both savory dishes and Romanian design pieces.</string>
+    <string name="simbio">Simbio was reinvented at the beginning of the year at a new address in a more generous, urban and friendly space, in a home in the early 20th century.</string>
+    <string name="fratellini">The new Fratellini Bistro Fratelli Group signature is a natural, chic, day-to-day choice for breakfast or noon tea , perfect for business meetings or friends.</string>
+    <string name="bocca">Italian dishes are recognized as being among the healthiest in the world. Top quality olive oil and aromatic herbs give a special taste to the preparations that bear the signature of Chef Mihai Bazavan.</string>
+    <string name="shift">Shift has always had one of the most beautiful terraces in Bucharest, but now, after a recent renovation, and the interior of the place looks very interesting as well.</string>
+    <string name="biutiful">"Once you pass the threshold you will start to have trouble concentrating, because the eyes will try to encompass as much as possible from this crowd of beautiful things, old and new.</string>
+    <string name="radison">Set a 4-minute walk from the National Museum of Art of Romania, this grand hotel is also a 6-minute walk from Piața Romană metro station. </string>
+    <string name="marriot">This upscale hotel is 1 km from the Palace of the Parliament.</string>
+    <string name="royale">Set in a 19th-century building overlooking Unirii park, this hotel is a 12-minute walk from the National Theatre and 3 km from Gara de Nord train station.</string>
+    <string name="epoque">Epoque is a creation of beauty and comfort, destined to accommodate its guests in all personal freedom.</string>
+    <string name="hilton">This landmark upmarket hotel, built in 1914, is an 8-minute walk from a metro station, 2 km from the Museum of the Romanian Peasant and 3 km from the ornate Palace of the Parliament.</string>
+    <string name="therme">Therme Bucharest is a wellness concept for a modern lifestyle oriented to your well-being.</string>
+    <string name="senses">A unique adventure that will cause your senses, even those you did not know! A museum where anything around you is not as it seems. Are you ready? </string>
+    <string name="escape">Together with your friends, you’ll need to find or observe hidden clues, to solve logical quests, to unlock different locks and operate all kinds of mechanical and technological devices and put all the information together to solve the puzzles.</string>
+    <string name="hera">Herastrau Park, among its attractions , includes a summer theater, exhibitions pavilions, water and sports clubs , cafes, clubs and restaurants, a hotel and many other facilities. Lake Herastrau is used for recreation, sport fishing , water sports and sailing.</string>
+    <string name="miau">Miau is the first cat cafe in Bucharest,home to 10 lovely felines and 2 very sociable dogs. Here you can come spend time with the cats,enjoy a lemonade or tea in the cozy terrace or play board games with friends.</string>
+    <string name="garden">The Bucharest Botanical Garden is located in the Cotroceni neighbourhood of Bucharest, Romania and has more than 10,000 species of plants.</string>
+</resources>
